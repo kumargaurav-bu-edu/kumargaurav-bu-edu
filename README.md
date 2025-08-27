@@ -1,5 +1,3 @@
-**kumargaurav-bu-edu/kumargaurav-bu-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🚀 Principal Software Engineer | Data Engineering | Cloud | AI Enthusiast  
 
 Hello! 👋  
