@@ -1,4 +1,3 @@
-<!--
 **kumargaurav-bu-edu/kumargaurav-bu-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 🚀 Principal Software Engineer | Data Engineering | Cloud | AI Enthusiast  
@@ -19,6 +18,5 @@ With 12+ years of experience building large-scale enterprise applications, big d
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumar-gaurav-658b439/)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love traveling, experimenting with emerging tech, and discovering new music.  
--->
 
 
