@@ -1,7 +1,7 @@
 # 🚀 Principal Software Engineer | Data Engineering | Cloud | AI Enthusiast  
 
 Hello! 👋  
-I’m **Fnu Kumar Gaurav**  
+I’m ** Kumar Gaurav**  
 *Principal Software Engineer @ Palo Alto Networks | MS in Data Science & AI @ Boston University*  
 
 With 12+ years of experience building large-scale enterprise applications, big data solutions, and cloud-native platforms, I’m passionate about solving complex problems through data-driven approaches and continuously exploring new technologies.  
